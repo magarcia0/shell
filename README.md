@@ -1,1 +1,2 @@
-# rps.py - simple game of rock, paper, scissors using python3
+- rps.py - simple game of rock, paper, scissors using python3
+- joust (dir) - contains a game of joust in which two knights face off against each other. Made in python3
